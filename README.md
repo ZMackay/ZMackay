@@ -3,5 +3,5 @@ Expected graduation is May 2022 (one more semester).
 
 Looking to colabarate and make some incredible projects. 
 
-Check out my website www.zacharymackay.com
+
 LinkedIn: www.linkedin.com/in/zachary-mackay-a99189180
