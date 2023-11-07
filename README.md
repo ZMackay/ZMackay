@@ -1,5 +1,4 @@
-Hello, my name is zachary Mackay. I am a curerent Computer Science student at the University of Arkansas-FortSmith, with a focus in data science and AI.  
-Expected graduation is May 2022 (one more semester).
+Hello, my name is Zachary Mackay. I am a computer science graduate from the University of Arkansas - Fort Smith. I focused in Data Science and AI and aquired a minor in mathmatics.
 
 Looking to colabarate and make some incredible projects. 
 
